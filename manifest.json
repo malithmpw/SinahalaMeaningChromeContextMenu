@@ -1,0 +1,18 @@
+{
+    "name": "Sinhala Meaning",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Get Sinhala Meaning",
+    "permissions": [
+      "contextMenus"
+     ],
+    "background": { 
+      "scripts": ["script.js"]
+    },
+    "icons": {
+    "16": "si.png",
+    "32": "si.png",
+    "48": "si.png",
+    "128": "si.png"
+  }
+}
